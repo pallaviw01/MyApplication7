@@ -12,7 +12,6 @@ public class MainActivity extends AppCompatActivity {
 
 /*hello*/
 
-
     }
     public void test()
     {
